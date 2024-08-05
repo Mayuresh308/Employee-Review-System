@@ -30,7 +30,7 @@ It is easy for employees to use and helps create a positive work environment.
   4. Admin PassWord(important) 
   ```
   12345
-  
+  -------------------------------------
 
 
  
