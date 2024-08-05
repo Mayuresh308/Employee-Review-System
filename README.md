@@ -31,61 +31,13 @@ It is easy for employees to use and helps create a positive work environment.
   ```
   12345
   
-  ```
+
 
  
 
  
 
-  ## Folder Structure
-```bash
-
-employee-review-System
-    |
-    |               |--->css
-    |--->assets---->|--->images
-    |               |---> js
-    |
-    |               |--->mongoose.js
-    |--->config---->|
-    |               |--->passport-local-Stradegy.js
-    |
-    |                  |-->admin_controoler.js
-    |--->controllers-->|-->review_controller.js
-    |                  |-->user_controller.js
-    |
-    |               |-->review.js
-    |--->models---->|
-    |               |-->user.js
-    |
-    |              
-    |               |-->admin.js
-    |--->routes---->|-->review.js
-    |               |-->index.js
-    |               |-->user.js
-    |
-    |
-    |
-    |
-    |              |--->_header.ejs
-    |              |--->_footer.ejs
-    |              |--->admin.ejs
-    |--->views---->|--->employee.ejs
-    |              |--->home.ejs
-    |              |--->layout.ejs
-    |              |--->login.ejs
-    |              |--->register.ejs
-    |              
-    |
-    |-->index.js
-    |
-    |-->node_modules
-    |-->.gitignore
-    |-->package.json
-    |
-``` 
  
-
 
 
 
