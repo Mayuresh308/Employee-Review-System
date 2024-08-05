@@ -28,7 +28,7 @@ It is easy for employees to use and helps create a positive work environment.
   $ nodemon index.js or npm start
   ```
   4. Admin PassWord(important) 
-  ```
+
   12345
   -------------------------------------
 
